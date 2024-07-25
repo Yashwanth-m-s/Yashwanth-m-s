@@ -4,6 +4,10 @@
 <p align="left"> <a href="https://twitter.com/yashwanthyash32" target="blank"><img src="https://img.shields.io/twitter/follow/yashwanthyash32?logo=twitter&style=for-the-badge" alt="yashwanthyash32" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
+<br clear="both">
+
+<img align="right" height="167" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif?cid=790b7611l8d400kfuggsxcuk62t0xjro7wp0y5dqumnyp2i2&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+
 <p align="left">
 <a href="https://twitter.com/yashwanthyash32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashwanthyash32" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/linkedin.com/in/yashwanth-yash-4a88b5296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/yashwanth-yash-4a88b5296" height="30" width="40" /></a>
